@@ -2,7 +2,7 @@
 
 Work in progress!
 
-Bill of materials:
+Bill of materials:                                                                                     
 https://docs.google.com/spreadsheets/d/1PQ_33P7FRglpBsj6FotdcuB5FtdoIs-LssZiF6lmej0/edit?usp=sharing
 
 Some other projects used on Trigacy:
