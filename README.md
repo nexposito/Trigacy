@@ -12,7 +12,7 @@ https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhau
 https://github.com/jlas1/Klicky-Probe/tree/main
 
 
-Some redner images:
+Some render images:
 
 ![1](https://github.com/nexposito/Trigacy/blob/main/Images/Captura%20de%20tela%202023-04-05%20015256.png)
 
