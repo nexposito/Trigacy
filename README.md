@@ -9,6 +9,7 @@ Some other projects used on Trigacy:
 
 https://github.com/teookie/Legacy-V0.1-style-tensioners
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover
+
 https://github.com/jlas1/Klicky-Probe/tree/main
 
 
